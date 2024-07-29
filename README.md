@@ -13,7 +13,7 @@ The Grocery Delivery Application is an e-commerce platform designed to facilitat
 
 ## Application Link
 
-You can access the live application [here](http://your-application-url.com).
+You can access the live application [here](https://e-commerce-ashen-delta.vercel.app/).
 
 ## Setup and Installation
 1. *Clone the Repository*:
